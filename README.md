@@ -23,8 +23,8 @@ Estoy abierto a colaboraciones en proyectos emocionantes y desafiantes. Si tiene
 Si deseas saber más sobre mí, discutir ideas o simplemente saludar, no dudes en ponerse en contacto conmigo. Puedes encontrarme en las siguientes plataformas:
 
 - Email: estrosebas@gmail.com
-- LinkedIn: [tu_perfil_de_LinkedIn](enlace_a_tu_perfil)
-- Twitter: [@tu_usuario_de_Twitter](enlace_a_tu_perfil)
+- LinkedIn: [Diego Sebastian Gonzales Gomez](https://www.linkedin.com/in/diego-sebastian-gonzales-gomez-a9b0a1212/)
+- Twitter: [@diegose02919828](https://twitter.com/diegose02919828)
 
 ¡Gracias por visitar mi perfil de GitHub! Espero poder conectarme con personas apasionadas por la programación y colaborar en proyectos interesantes. ¡No dudes en explorar mis repositorios y dejar tus comentarios!
 
