@@ -1,31 +1,22 @@
-# Bienvenidos a mi perfil de GitHub
+<h1 align="center">¡Hola! 🙌 Soy Diego Sebastián Gonzales Gomez</h1>
 
-¡Hola a todos! Soy Diego Sebastian Gonzales Gomez], un apasionado del desarrollo de software y me complace darles la bienvenida a mi perfil de GitHub. Aquí encontrarán información sobre mis proyectos, intereses y habilidades en el mundo de la programación. Permítanme compartirles un poco sobre mí:
+<h2 align="center">👨‍💻 Apasionado del desarrollo de software.</h2>
+<h3 align="center">Aquí descubrirás mis proyectos, habilidades y un poco sobre mi mundo.</h3>
 
-## Sobre mí
+<h2 align="center">👾 Tecnologías</h2>
+<p align="center">Familiarizado con PHP en el backend y con experiencia en Java y Python. Siempre aprendiendo y buscando crecer profesionalmente.</p>
 
-Soy un entusiasta aprendiz de programación con experiencia en varios lenguajes y tecnologías. Actualmente, me encuentro enfocándome en el desarrollo web utilizando PHP, Java y Python. Estos lenguajes me permiten crear soluciones robustas y escalables para una amplia gama de aplicaciones. Siempre estoy buscando oportunidades para ampliar mi conocimiento y mejorar mis habilidades en estas áreas.
+<h2 align="center">🐄🐱 Pasiones</h2>
+<p align="center">Soy amante de los animales, con un cariño especial por las vacas y los gatos. Siempre listo para compartir historias sobre ellos.</p>
 
-## Intereses
+<h2 align="center">🤝 Colaboración</h2>
+<p align="center">Abierto a colaborar en proyectos emocionantes e innovadores. Si tienes ideas o buscas colaboración, no dudes en contactarme.</p>
 
-Aparte de la programación, también tengo algunas pasiones fuera del mundo tecnológico. Soy un amante de los animales y tengo especial afecto por las vacas y los gatos. Me encanta aprender sobre su comportamiento y bienestar, y siempre estoy dispuesto a compartir historias sobre ellos.
+<h2 align="center">📬 Contacto</h2>
+<p align="center">
+📧 Email: <a href="mailto:estrosebas@gmail.com">estrosebas@gmail.com</a><br>
+🌐 LinkedIn: <a href="https://www.linkedin.com/in/diego-sebastian-gonzales-gomez-a9b0a1212/">Diego Sebastian Gonzales Gomez</a><br>
+🐦 Twitter: <a href="https://twitter.com/diegose02919828">@diegose02919828</a>
+</p>
 
-## League of Legends
-
-Además de mi dedicación al desarrollo de software, encuentro tiempo para disfrutar de mi pasatiempo favorito: ¡jugar League of Legends! Este juego de estrategia en línea me permite conectarme con amigos y competir en emocionantes batallas en equipo. Si compartes esta pasión, ¡no dudes en contactarme para hablar sobre estrategias o simplemente pasar un buen rato!
-
-## Colaboración
-
-Estoy abierto a colaboraciones en proyectos emocionantes y desafiantes. Si tienes alguna idea interesante en la que podamos trabajar juntos, no dudes en contactarme. Me encanta aprender de otros desarrolladores y contribuir a soluciones innovadoras.
-
-## Contacto
-
-Si deseas saber más sobre mí, discutir ideas o simplemente saludar, no dudes en ponerse en contacto conmigo. Puedes encontrarme en las siguientes plataformas:
-
-- Email: estrosebas@gmail.com
-- LinkedIn: [Diego Sebastian Gonzales Gomez](https://www.linkedin.com/in/diego-sebastian-gonzales-gomez-a9b0a1212/)
-- Twitter: [@diegose02919828](https://twitter.com/diegose02919828)
-
-¡Gracias por visitar mi perfil de GitHub! Espero poder conectarme con personas apasionadas por la programación y colaborar en proyectos interesantes. ¡No dudes en explorar mis repositorios y dejar tus comentarios!
-
-¡Que tengas un día maravilloso! 😄
+<h3 align="center">¡Gracias por visitar! Espero que explores, dejes tus comentarios y podamos conectar. ¡Te deseo un día fantástico! 😄</h3>
