@@ -75,5 +75,6 @@ Me encanta desarrollar bots y herramientas para optimizar procesos. Actualmente,
 - 🤖 Desarrollador de bots y herramientas automatizadas.
 
 ---
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/estrosebas/estrosebas/output/snake.svg" alt="Snake animation" />
