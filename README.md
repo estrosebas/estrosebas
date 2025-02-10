@@ -77,4 +77,4 @@ Me encanta desarrollar bots y herramientas para optimizar procesos. Actualmente,
 ---
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/estrosebas/estrosebas/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/estrosebas/estrosebas/blob/output/github-contribution-grid-snake.gif)
